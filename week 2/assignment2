@@ -1,0 +1,54 @@
+Answer 1
+
+Value - Piece of infomation that cannot be further reduced. Example number 1, word hello
+Expression - When something can be reduced. Example number 1 plus number 2 is number 3 so this is an arithmetic expression
+Variable - An identified to refer to a value which could change over time. Usually variable refers to a specific type of value : number, text or anything else
+Constant - Identifier for a vlue that will not change throught the program. Example constant pi can be assigned 3.14 value which will remain the same.
+Operator - A symbol that represents action that can take place on value or values. It can also work on variables since those contain values. Example +, -
+Compiler - A program that converts instructions into a machine-code or lower-level form so that they can be read and executed by a computer.
+Interpreter - An interpreter is a computer program that is used to directly execute program instructions written using one of the many high-level programming languages.
+Operating system - The software that supports a computer's basic functions, such as scheduling tasks, executing applications, and controlling peripherals.
+String -  Most languages have a data type called a string, which is used for data values that are made up of ordered sequences of characters, such as "hello world".
+Boolean - Boolean data type is a data type that has one of two possible values (usually denoted true and false) which is intended to represent the two truth values of logic and Boolean algebra.
+
+
+Answer 2
+
+Installed editor: Notepad++
+Things I like about Notepad++:
+- Free and easy installation for Windows
+- Syntax highlighting for Python
+- Love the dark mode
+- Allows Python code execution directly in the editor, without having to switch to another command prompt
+
+
+Answer 3
+
+Code:
+# Python program to swap two variables
+
+x = 2
+y = 3
+
+print('Value of x before swapping:', x)
+print('Value of y before swapping:', y)
+
+# create a temporary variable and swap the values
+temp = x
+x = y
+y = temp
+
+print('Value of x after swapping:', x)
+print('Value of y after swapping:', y)
+
+
+Explanation - This program swaps 2 variables x and y with each others values. In the example before swapping x and y had values of 2 and 3 respectively but after swapping the values are 3 and 2 respectively for x and y.
+This was one of the examples provided in the lecture 2. Found the code at https://www.programiz.com/python-programming/examples/swap-variables and modified a bit to better undserstand it.
+
+
+Code execution:
+C:\Users\sghosh\Documents\ucsd_python>python swap.py
+Value of x before swapping: 2
+Value of y before swapping: 3
+Value of x after swapping: 3
+Value of y after swapping: 2

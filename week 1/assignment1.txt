@@ -1,0 +1,42 @@
+Answer 1
+Hello world in C#
+namespace HelloWorld
+
+{
+
+     class Hello {
+
+                                   static void Main(string[] args)
+
+                                    { System.Console.WriteLine("Hello World!");
+
+                                      }
+
+                          } 
+
+}
+
+This language seems a lot similar to Hello World program in Java, in the sense that visually the construct seems very similar. Also in terms of length c and python seem to do the same thing with less lines of code.
+In my opinion, C# uses a lot of lines of code to just print a line "Hello World" which I dislike.
+ 
+
+Answer 2
+
+C language : Extremely fast processing makes this the best language for time critical operations. Suits the need when we need to control the hardware.
+Java language :   Most programs can run on any device that can run Java. Great for large coding teams. Also syntax wise it is more forgiving than C.
+Python language : Easy to read, write and understand. Extremely suitable for beginners as it is much easier to start programming. 
+ 
+
+Answer 3
+
+Python 3.7.9
+
+
+Answer 4
+
+Hello Everyone,
+
+Feels great to finally start this course! I am an Engineer at Calamp and want to strengthen my understanding of Python and programming in general.
+Hope to interact and collaborate with everyone as much as possible.
+Good luck everyone!
+Souvik

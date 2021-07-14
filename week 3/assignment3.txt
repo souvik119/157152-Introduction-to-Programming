@@ -1,0 +1,12 @@
+Answer 1
+
+Most basic flow of a program is where a number of statements are executed top to bottom in a linear fashion, for example, display a sum of 2 numbers.
+However in real life we often come accross many situations where there could be multiple paths from start to end point. This is where branching 
+comes in to control the flow of program, for example, in a calculator the operation being performed determines the end result and there could be different results
+depending on the operation.
+In short it means taking decisions based on the evaluation of a condition.
+
+Following concepts help in decision making:
+- Relational operators : > < >= <= == !=
+- Logical operators : and or not
+- Flow control statements : if else elif
