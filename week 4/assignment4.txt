@@ -1,0 +1,14 @@
+Answer 1
+
+Often times in our program we may want want to repeat things over and over again. To make this repetition
+easier we have the concept of looping in computer science. This helps us avoid writing the same piece of code
+again and again.
+    - There are 2 types of looping statements in python namely for and while.
+    - While loop is better suited for sentinel based repetition where it is not known in advance how many times
+      the loop will be executed
+    - For loop is better suited for counter-controlled repetition where number of repetitions is known beforehand
+    - Loops can be nested just like if-else branch
+    - Iteration is each repetition in a loop
+    - break statement exits the immediate loop in which the break statement was located
+    - continue statement ignores all the remaining statements in the current iteration of the loop and moves the
+      control back to the start of the loop
